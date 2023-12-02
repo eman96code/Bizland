@@ -40,10 +40,6 @@ section {
   display: inline-block;
   text-transform: uppercase;
   border-radius: 50px;
-  -webkit-border-radius:;
-  -moz-border-radius:;
-  -ms-border-radius:;
-  -o-border-radius:;
 }
 .section-title h3 {
   margin: 15px 0 0 0;
